@@ -9,4 +9,4 @@ jobs:
         uses: 100Automations/action-check-org-members-enable-mfa@main
         env:
           GITHUB_ORG: 100Automations
-          GITHUB_ORG_OWNER_TOKEN: ${{ secrets.GITHUB_ORG_OWNER_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.ORG_OWNER_TOKEN }}
