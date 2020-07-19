@@ -1,0 +1,12 @@
+on: [push]
+
+jobs:
+  mfa:
+    runs-on: ubuntu-latest
+    name: check for 2fa enabled on all members of the org
+    steps:
+      - name: 🚀🚀🚀 action! 🚀🚀🚀
+        uses: 100Automations/action-check-org-members-enable-mfa@v1.0.1
+        env:
+          ORGANIZATION: 100Automations
+          ORG_OWNER_TOKEN: ${{ secrets.ORG_OWNER_TOKEN }}
