@@ -35,3 +35,38 @@ See project cards on the hackforla.org website for general idea, although the fo
 ](https://docs.github.com/en/articles/adding-a-security-policy-to-your-repository)
 - [GitHub's guide: Adding support resources to your project
 ](https://docs.github.com/en/articles/adding-support-resources-to-your-project)
+
+**Readme should include:**
+Overview 
+_What kind of repetitive thing do you have to do often and what is the benefit of automating it?_
+
+Current State 
+_"As-is" most likely something manual but could be partially automated_
+
+Future Development
+_The “To-be” state_
+
+Stakeholders
+_Impact - who benefits and how?_
+
+Anticipated outcomes
+
+Resources/Instructions
+_How to run the automation and any packages or dependencies_ 
+
+Language
+_Programming language(s)_
+
+Platform
+_Where is it deployed (e.g. GitHub, Linux Command Line, Windows Command Line etc)_
+
+Automation triggers 
+_What starts it? What's it responding to?
+Is it Time-based (Specify frequency (e.g. 1x/week)?
+Is it Event-based (e.g. someone just created a new GitHub on a repo)?_
+
+Input required 
+_How much manual or custom input is required?_
+
+Output 
+_What's the desired result? What do we not want to see?_
