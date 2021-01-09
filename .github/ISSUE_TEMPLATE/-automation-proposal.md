@@ -10,6 +10,11 @@ assignees: ''
 ### Overview 
 _What kind of repetitive thing do you have to do often and what is the benefit of automating it?_
 
+### Ownership of Idea
+- [ ] I will be working on this automation myself
+- [ ] This is my idea and I need help developing it
+- [ ] Free for anyone to work on this idea
+
 ### Current State 
 _"As-is" most likely something manual but could be partially automated_
 
