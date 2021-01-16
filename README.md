@@ -1,1 +1,4 @@
-# .github
+## Welcome to the Future Automations repository.
+* If you have an idea for an automation, read our guide on [how to evaluate if its a great idea.](https://github.com/100Automations/Website/blob/master/_guides/self-evaluating-new-automation-idea.md)
+* If you wish to contribute to an existing project or idea, check out the [available projects on the projects board](https://github.com/100Automations/futureautomations/projects/1#column-9876971)
+* If you wish to build your own automation, read our guide on [how to evaluate if its a great idea](https://github.com/100Automations/Website/blob/master/_guides/self-evaluating-new-automation-idea.md) and once you have validated your idea, submit your automation by adding it to the [project board](https://github.com/100Automations/futureautomations/projects/1)
