@@ -48,8 +48,9 @@ See project cards on the hackforla.org website for general idea, although the fo
 - Anticipated outcomes
 - Resources/Instructions
   - _How to run the automation and any packages or dependencies_ 
-- Language
+- Languages and Technologies
   - _Programming language(s)_
+  - _Framework(s)_
 - Platform
   - _Where is it deployed (e.g. GitHub, Linux Command Line, Windows Command Line etc)_
 - Automation triggers 
