@@ -12,7 +12,7 @@ Provide collateral for the OpenSourceAutomations.org website
 
 ### Action Items
 - [ ]   Gather items
-  - [ ]  600 x 400 image
+  - [ ]  744 x 300 image (The project image is 744 x 300 pixels, but displays at half that size, so it needs to be a clear, simple identifier of your automation.)
      - [ ]  Alt image text
   - [ ]  Name of automation
   - [ ]  A blurb about the automation
