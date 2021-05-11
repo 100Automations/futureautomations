@@ -12,7 +12,7 @@ Provide collateral for the OpenSourceAutomations.org website
 
 ### Action Items
 - [ ]   Gather items
-  - [ ]  744 x 300 image (The project image is 744 x 300 pixels, but displays at half that size, so it needs to be a clear, simple identifier of your automation.)
+  - [ ]  600 x 400 image (The project image is 744 x 300 pixels, but displays at half that size, so it needs to be a clear, simple identifier of your automation.)
      - [ ]  Alt image text
   - [ ]  Name of automation
   - [ ]  A blurb about the automation
@@ -22,9 +22,26 @@ Provide collateral for the OpenSourceAutomations.org website
      - [ ]  contributing.md URL
      - [ ]  security.md URL
      - [ ]  support.md URL
-    - [ ]  If you are looking for collaborators - What you are looking for skills wise
-  - [ ]  Status (in use, depreciated, needs update - and any other status you can think of)
-     - [ ] If status in use, what codebase can it be seen in?
+  - [ ]  Current Status of Automation
+     - [ ] In use and ready to deploy
+     - [ ] In use and being refactored
+     - [ ] Ready to deploy
+     - [ ] In development
+     - [ ] Ready for development
+     - [ ] In ideation
+     - [ ] Abandoned   
+- [ ] If status in use, what codebase can it be seen in?
+- [ ] Help wanted (check all that apply)
+     - [ ] needs maintenance
+     - [ ] needs support for users
+     - [ ] needs refactoring
+     - [ ] needs documentation 
+     - [ ] needs peer review
+     - [ ] needs to be built
+     - [ ] needs to be researched
+     - [ ] needs advice
+        - [ ] Advice Needed: (type in sort description of what you need)
+     - [ ] needs takeover
 - [ ]   Add automation Card to website
 
 ### Resources/Instructions
@@ -48,9 +65,8 @@ See project cards on the hackforla.org website for general idea, although the fo
 - Anticipated outcomes
 - Resources/Instructions
   - _How to run the automation and any packages or dependencies_ 
-- Languages and Technologies
+- Language
   - _Programming language(s)_
-  - _Framework(s)_
 - Platform
   - _Where is it deployed (e.g. GitHub, Linux Command Line, Windows Command Line etc)_
 - Automation triggers 
